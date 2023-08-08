@@ -9,6 +9,7 @@
 - Unit testing Principles, practises and patterns
 ### Planned
 - AWS certificate architect
+- Docker
 ### Complete
 - Clean Code
 - Grokkings algoritms
