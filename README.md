@@ -15,3 +15,5 @@
 - Grokkings algoritms
 - Clean Coder
 - Clean Architecture
+- Continuos delivery
+- Unit testing Principles, practises and patterns
